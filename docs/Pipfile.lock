@@ -1002,11 +1002,12 @@
         },
         "json-repair": {
             "hashes": [
-                "sha256:46955bfd22338ba60cc5239c0b01462ba419871b19fcd68d8881aca4fa3b0d2f",
-                "sha256:ce3cdef63f033d072295ca892cba51487292cd937da42dc20a8d629ecf5eb82d"
+                "sha256:841661cdd2df507c9a4e189097f38ca6bc372e06d4b4e36d72e590f68176c290",
+                "sha256:ba6ff974f2a8bef2f7768144a7f03f870a816443f03da27a49cdd0ec31a78049"
             ],
-            "markers": "python_version >= '3.9'",
-            "version": "==0.40.0"
+            "index": "pypi",
+            "markers": "python_version >= '3.10'",
+            "version": "==0.60.1"
         },
         "jsonschema": {
             "hashes": [
